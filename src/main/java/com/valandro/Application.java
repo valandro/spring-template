@@ -1,4 +1,4 @@
-package com.valandro.template;
+package com.valandro;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
